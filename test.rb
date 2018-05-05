@@ -1,5 +1,5 @@
 
-testerror
+testerror unixc3t
 
 test2
 test
